@@ -1,0 +1,5 @@
+hello backwards: olleh
+Number of s in systems: 3
+systems without s: ytem
+originalString: I am taking operating systems (CSC 305) now.
+shuffled string:    am I operating taking (CSC systems now. 305)
